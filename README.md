@@ -1,1 +1,1 @@
-This the HTML project name "odin-recipes".
+This is the HTML project named as "odin-recipes".
