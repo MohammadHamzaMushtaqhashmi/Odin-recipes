@@ -1,4 +1,13 @@
+* {
+    border: 2px none red;
+    margin: 20px;
+    padding: 5px;
+    background-color: lightgrey;
+    display: block;
+    
+}
 h1{
+    text-align: center;
     color: red;
 }
 h1, p {
