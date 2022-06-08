@@ -1,0 +1,36 @@
+#body {
+    background: wheat;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p{
+    opacity: 1;
+    display: block;
+    text-align: center;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+}
+div{
+    padding-left: 5px;
+    display: block;
+    color: white;
+    margin: 2px;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+}
+a{
+    color:brown ;
+    cursor: pointer;
+    text-decoration: none;
+}
